@@ -2,6 +2,7 @@
 It's a game.
 
 game star;
+
     Draw the star;
         animate the star;
             Has the star been clicked on?;
